@@ -1,3 +1,3 @@
-# exemplo-git-parte2
+# Texto modificado dentro da Branch minha-modificacao
 
 Alguma coisa está escrita aqui
